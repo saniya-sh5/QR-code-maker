@@ -1,1 +1,1 @@
-# QR-code-maker
+# QR-maker
