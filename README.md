@@ -1,10 +1,10 @@
 # QR code-maker
 
-🚀 QR Code Maker — Features
+ QR Code Maker — Features
 
 Our QR Code Maker lets you create, customize, and manage QR codes easily for various use cases.
 
-🧩 Key Features
+ Key Features
 
 Static & Dynamic QR Codes — Generate permanent (static) or editable (dynamic) codes with real-time link updates.
 
@@ -26,14 +26,4 @@ Secure & Reliable Links — HTTPS links, safe redirects, and domain management f
 
 Cross-Platform Compatibility — Works smoothly across devices and browsers.
 
-🛠️ Tech Stack (Example)
 
-Frontend: HTML, CSS, JavaScript (or React)
-
-Backend: Python (Flask / Django) or Node.js
-
-Libraries: qrcode, Pillow, or segno
-
-Database (optional): SQLite / MongoDB
-
-Hosting: GitHub Pages / Render / Vercel
